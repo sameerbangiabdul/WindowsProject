@@ -1,0 +1,1 @@
+Sample txt file of windows services project for newel technologies.
